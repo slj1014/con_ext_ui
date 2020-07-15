@@ -1,0 +1,8 @@
+{
+  "id": "my-json-ui-tsx",
+  "name": "my-json-ui-tsx",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
